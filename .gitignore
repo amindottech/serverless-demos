@@ -1,0 +1,9 @@
+#gitignor for python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+venv/
+env/
+.env
